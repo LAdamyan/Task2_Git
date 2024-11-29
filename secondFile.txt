@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 "Line 111" 
 "Line 222" 
+=======
+"Line 11" 
+"Line 22" 
+>>>>>>> git_2
 "Line 3" 
 "Line 4" 
 "Line 5" 
